@@ -1,0 +1,8 @@
+html {
+    box-sizing: border-box;  /* prevents padding to add extra hight or weight to the page */
+}
+
+body {
+    margin: 0;
+    min-height: 100vm; /* strench to the full height of the device even though there isnt enough conten */
+}
